@@ -1,2 +1,2 @@
-# phones-js-10122018-new
-Новый репозиторий
+# phone-catalogue-static
+Static pages of phone catalogue
